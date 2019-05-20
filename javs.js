@@ -269,7 +269,7 @@ jog.style.left=pjx+"px";
 contbombs=100;
 appr=document.getElementById("contbombas").value=contbombs;
 //planetcontrol
-lifeplanet=10;
+lifeplanet=330;
 //controlexpl
 inde=0;
 telas=document.getElementById("telamsg");
